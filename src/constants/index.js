@@ -80,7 +80,7 @@ export const myProjects = [
     desc: 'Information System for Trinitas Open Basketball Competition',
     subdesc:
       'This system is tailored to manage the Trinitas Open basketball competition efficiently. It facilitates team registration, match scheduling, score tracking, and result announcements. Designed to enhance user experience, it ensures seamless communication and coordination for participants, organizers, and spectators.',
-    texture: '/textures/project/project2.mp4',
+    texture: '/textures/project/triop.mp4',
     logoStyle: {
       backgroundColor: '#13202F',
       border: '0.2px solid #17293E',
