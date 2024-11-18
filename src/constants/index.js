@@ -60,7 +60,7 @@ export const myProjects = [
     desc: 'Information System for Population Management in RW 8, Cigondewah Rahayu',
     subdesc:
       'This system is designed to streamline population management processes, including data collection, record maintenance, and service facilitation for the residents of RW 8. It enables efficient handling of demographic information, improving accessibility and accuracy while supporting community administrative needs.',
-    texture: '/textures/project/project1.mp4',
+    texture: '/textures/project/kependudukan.mp4',
     logoStyle: {
       backgroundColor: '#2A1816',
       border: '0.2px solid #36201D',
